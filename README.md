@@ -181,9 +181,9 @@ Through this project, I am practicing:
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/KadiaHarnil
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/harnil-kadia-b92a46175
 
 ---
 
